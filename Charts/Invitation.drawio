@@ -1,1 +1,153 @@
-<mxGraphModel><root><mxCell id="0"/><mxCell id="1" parent="0"/></root></mxGraphModel>
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="HKBXgu8XlArG9U4AhS1Q">
+    <mxGraphModel dx="1107" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5n1F1-s7gxQfWrof2dvD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5n1F1-s7gxQfWrof2dvD-14" target="5n1F1-s7gxQfWrof2dvD-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5n1F1-s7gxQfWrof2dvD-14" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="290" y="500" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5n1F1-s7gxQfWrof2dvD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5n1F1-s7gxQfWrof2dvD-15" target="5n1F1-s7gxQfWrof2dvD-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5n1F1-s7gxQfWrof2dvD-15" value="User login" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="280" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5n1F1-s7gxQfWrof2dvD-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5n1F1-s7gxQfWrof2dvD-17" target="5n1F1-s7gxQfWrof2dvD-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5n1F1-s7gxQfWrof2dvD-17" value="Navigate to desired UserGroup" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="280" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5n1F1-s7gxQfWrof2dvD-21" target="DcdZtxrrvjHmz55TXyS0-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="910" />
+              <mxPoint x="300" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5n1F1-s7gxQfWrof2dvD-21" target="DcdZtxrrvjHmz55TXyS0-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="910" />
+              <mxPoint x="120" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5n1F1-s7gxQfWrof2dvD-21" target="DcdZtxrrvjHmz55TXyS0-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="910" />
+              <mxPoint x="610" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n1F1-s7gxQfWrof2dvD-21" value="Create a New Invitation" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="280" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DcdZtxrrvjHmz55TXyS0-1" target="DcdZtxrrvjHmz55TXyS0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-1" value="Copy prefilled invitation link" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DcdZtxrrvjHmz55TXyS0-4" target="DcdZtxrrvjHmz55TXyS0-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-4" value="Send invitation email" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DcdZtxrrvjHmz55TXyS0-5" target="DcdZtxrrvjHmz55TXyS0-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="1020" />
+              <mxPoint x="290" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-5" value="Show a QR code of the prefilled invitation link" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5n1F1-s7gxQfWrof2dvD-21" target="DcdZtxrrvjHmz55TXyS0-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="910" />
+              <mxPoint x="460" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DcdZtxrrvjHmz55TXyS0-7" target="DcdZtxrrvjHmz55TXyS0-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-7" value="Copy the invitation code (for site that allow registration)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DcdZtxrrvjHmz55TXyS0-10" target="DcdZtxrrvjHmz55TXyS0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-10" value="The link shows a registration form" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DcdZtxrrvjHmz55TXyS0-13" target="DcdZtxrrvjHmz55TXyS0-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-13" value="New user fill in the registration information" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DcdZtxrrvjHmz55TXyS0-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-15" value="The email shows a registration link" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DcdZtxrrvjHmz55TXyS0-19" target="DcdZtxrrvjHmz55TXyS0-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-19" value="New user visit the site and go to the registration page" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DcdZtxrrvjHmz55TXyS0-21" target="DcdZtxrrvjHmz55TXyS0-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="1240" />
+              <mxPoint x="290" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-21" value="User fill in the given invitation code" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DcdZtxrrvjHmz55TXyS0-27" target="DcdZtxrrvjHmz55TXyS0-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-27" value="User finish registration" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DcdZtxrrvjHmz55TXyS0-29" target="DcdZtxrrvjHmz55TXyS0-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-29" value="Redirect to login page" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DcdZtxrrvjHmz55TXyS0-31" target="DcdZtxrrvjHmz55TXyS0-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-31" value="User login to do reservation" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DcdZtxrrvjHmz55TXyS0-33" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1720" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
