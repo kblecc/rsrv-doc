@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="CPJoFg60fdWjHG2lTiPA">
+    <mxGraphModel dx="1061" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gPE-7NvNpLW_6VtqPjDS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gPE-7NvNpLW_6VtqPjDS-1" target="gPE-7NvNpLW_6VtqPjDS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gPE-7NvNpLW_6VtqPjDS-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gPE-7NvNpLW_6VtqPjDS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gPE-7NvNpLW_6VtqPjDS-3" target="gPE-7NvNpLW_6VtqPjDS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gPE-7NvNpLW_6VtqPjDS-3" value="Admin start the docker stack" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gPE-7NvNpLW_6VtqPjDS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gPE-7NvNpLW_6VtqPjDS-5" target="gPE-7NvNpLW_6VtqPjDS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gPE-7NvNpLW_6VtqPjDS-5" value="Run site init, setup admin account" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gPE-7NvNpLW_6VtqPjDS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gPE-7NvNpLW_6VtqPjDS-7" target="gPE-7NvNpLW_6VtqPjDS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gPE-7NvNpLW_6VtqPjDS-7" value="Redirect to Login" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gPE-7NvNpLW_6VtqPjDS-9" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="400" y="880" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gPE-7NvNpLW_6VtqPjDS-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gPE-7NvNpLW_6VtqPjDS-11" target="gPE-7NvNpLW_6VtqPjDS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gPE-7NvNpLW_6VtqPjDS-11" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gPE-7NvNpLW_6VtqPjDS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gPE-7NvNpLW_6VtqPjDS-12" target="gPE-7NvNpLW_6VtqPjDS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gPE-7NvNpLW_6VtqPjDS-12" value="Add UserGroup and User" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gPE-7NvNpLW_6VtqPjDS-15" value="Setup Account by invitation link" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
